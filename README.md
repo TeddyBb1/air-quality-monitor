@@ -38,6 +38,10 @@ Welcome to **Air Quality Monitor on Map**! This Python-based desktop application
      ```bash
      python air.py
      ```
+     or
+     ```bash
+     py air.py
+     ```
 
 6. **Enter coordinates** 🗺️:
    - Input the latitude and longitude to get live air quality data and see it on the map.
