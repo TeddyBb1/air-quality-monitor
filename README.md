@@ -38,7 +38,6 @@ Welcome to **Air Quality Monitor on Map**! This Python-based desktop application
      ```bash
      python air.py
      ```
-     or
      ```bash
      py air.py
      ```
